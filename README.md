@@ -2,7 +2,7 @@
 
 A scenario-based learning simulation designed to help customer-facing teams practise workplace communication, decision-making, and confidence during difficult customer interactions.
 
-Project Overview
+**Project Overview**
 
 Customer-facing employees often understand communication principles in theory but struggle to apply them consistently during high-pressure service situations.
 
@@ -10,43 +10,34 @@ This project was designed to create a safe practice environment where learners c
 
 Rather than relying on passive onboarding alone, the simulation focuses on active participation, helping learners build confidence, judgement, and communication effectiveness through repeated practice.
 
-What the Project Includes
+**What the Project Includes**
 
-Customer service scenario simulation
+- Customer service scenario simulation
+- Branching learner decision pathways
+- Structured feedback based on learner choices
+- Performance-focused workplace practice
+- Reflection and reinforcement opportunities
 
-Branching learner decision pathways
+**Tools Used**
 
-Structured feedback based on learner choices
+- Articulate Storyline 360
+- GitHub
+- Vercel
 
-Performance-focused workplace practice
+**What This Demonstrates**
 
-Reflection and reinforcement opportunities
+- branching scenario design
+- learner decision pathways
+- structured feedback systems
+- practical workplace simulation
+- performance-focused learning design
+- strong foundations in instructional design
 
-Tools Used
+**Live Project**
 
-Articulate Storyline 360
 
-GitHub
 
-Vercel
-
-What This Demonstrates
-
-branching scenario design
-
-learner decision pathways
-
-structured feedback systems
-
-practical workplace simulation
-
-performance-focused learning design
-
-strong foundations in instructional design
-
-Live Project
-
-Ownership
+**Ownership**
 
 This portfolio project was created by Hassan Mahmoud for professional showcase purposes.
 
